@@ -22,3 +22,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-purple?style=for-the-badge&logo=insomnia)
+![NeoVim](https://img.shields.io/badge/neovim-darkgreen?style=for-the-badge&logo=neovim)
