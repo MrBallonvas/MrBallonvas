@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me :
 - I mainly do frontend development.
-- In IT second year.
-- I also develop small desktop programs on python.
+- In IT 3 years.
+- I also develop backend (Express, Fasitify)
 - 📫How to reach with me:
   - write me on  [E-Mail](mailto:shevlukvp@shevluk.ru)
   - telegram [@jlyou](https://t.me/jlyou)
